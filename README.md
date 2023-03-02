@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hola, me llamo Brian
+### _Full-stack JavaScript Developer en proceso_
 
-<!--
-**bEERRE96/beerre96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En 2022 me propuse ingresar al mundo IT, ya que cuento con un circulo de amigos que estan dentro del mismo, y me parecio muy interesante. 
+La idea principal es poder desarrollarme en el ambito del back-end.
 
-Here are some ideas to get you started:
+### Actualmente estoy aprendiendo con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [FreeCodeCamp](https://www.freecodecamp.org/espanol/learn/)
+- [Undefined-Shell](https://undefined.academy/#contenidos)
+- [Eloquent JS](https://eloquentjs-es.thedojo.mx/index.html)
+
+
+### Comandos de la terminal aprendidos
+
+| Comando | Acción |
+| ------ | ------ |
+| **ls** | Lista los archivos de la carpeta actual, o de la ruta dada. Ej. **ls** Documents  |
+| **cd** | Nos permite navegar entre carpetas. Ej. **cd** Documents nos ubicaría en /Users/<usuario>/Documents |
+| **pwd** |  Nos nuestra la ruta absoluta del directorio actual, así podemos saber en dónde estamos ubicados.|
+| **mkdir** | Crea una nueva carpeta dado un nombre para esa carpeta. Ej. **mkdir** hola|
+| **touch** | Crea un archivo nuevo dada una ruta y/o nombre. Ej. **touch** README . |
+
+
+### Comandos Alias utiles
+
+```sh
+alias findd="ls ~/ | grep $1"
+Crea un alias "findd", el cual busca $1 documento en HOME (o directorio agregado al alias) .
+```
+
+```sh
+alias cl = "clear"
+Crea un alias "cl", el cual ejectura el comando CLEAR
+```
