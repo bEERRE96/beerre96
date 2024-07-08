@@ -17,6 +17,13 @@ La idea principal es poder desarrollarme en el ámbito del back-end.
 - [Undefined-Shell](https://undefined.academy/#contenidos)
 
 
+### Por qué elegirme?
+
+- **Motivación y Pasión:** Estoy altamente motivado para crecer en el campo del desarrollo backend, y siempre busco oportunidades para aprender y mejorar.
+- **Formación Continua:** Me mantengo actualizado con las últimas tecnologías y mejores prácticas mediante cursos y formación autodidacta.
+- **Trabajo en Equipo:** Tengo habilidades interpersonales sólidas y disfruto trabajando en equipo para lograr objetivos comunes.
+
+
 ### Comandos de la terminal aprendidos
 
 | Comando   | Acción                                                                                          |
