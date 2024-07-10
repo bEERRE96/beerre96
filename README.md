@@ -9,6 +9,9 @@ La idea principal es poder desarrollarme en el ámbito del back-end.
 - **Lenguajes y Tecnologías:** JavaScript, HTML, CSS, Bootstrap, ReactJS, NodeJS, Express
 - **Actualmente aprendiendo:** JAVA
 
+### Portfolio
+- [Portfolio Web](https://brian-diaz-portfolio.netlify.app/)
+
 ### Actualmente estoy aprendiendo con:
 
 - [FreeCodeCamp](https://www.freecodecamp.org/espanol/learn/)
