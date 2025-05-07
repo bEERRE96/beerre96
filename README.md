@@ -1,50 +1,72 @@
-# Hola, me llamo Brian
-### _Full-stack JavaScript Developer en proceso_
+# 👨‍💻 Brian Diaz — Desarrollador Web Full Stack JavaScript Jr.
 
-En 2022 me propuse ingresar al mundo IT, ya que cuento con un círculo de amigos que están dentro del mismo y me pareció muy interesante. 
-La idea principal es poder desarrollarme en el ámbito del back-end.
+¡Hola! Soy Brian Diaz, desarrollador web Full Stack con especialización en tecnologías JavaScript. Me apasiona crear aplicaciones modernas, tanto del lado del cliente como del servidor, enfocándome en la escritura de código limpio, funcional y escalable. Busco siempre seguir aprendiendo y creciendo como profesional.
 
-### Habilidades Técnicas
+🌐 **Portfolio**: [brian-diaz-portfolio.netlify.app](https://brian-diaz-portfolio.netlify.app/)
 
-- **Lenguajes y Tecnologías:** JavaScript, HTML, CSS, Bootstrap, ReactJS, NodeJS, Express
-- **Actualmente aprendiendo:** JAVA
+---
 
-### Portfolio
-- [Portfolio Web](https://brian-diaz-portfolio.netlify.app/)
+## 🚀 Tecnologías y Herramientas
 
-### Actualmente estoy aprendiendo con:
+### Lenguajes
+- JavaScript
+- HTML5
+- CSS3 / SASS
+- SQL
+- Java (básico)
 
-- [FreeCodeCamp](https://www.freecodecamp.org/espanol/learn/)
-- [Codo a Codo](https://codoacodo.bue.edu.ar)
-- [CoderHouse](https://www.coderhouse.com)
-- [Undefined-Shell](https://undefined.academy/#contenidos)
+### Frameworks y Librerías
+- React.js
+- Node.js
+- Express.js
+- Bootstrap
 
+### Bases de Datos
+- MySQL
 
-### Por qué elegirme?
+### Herramientas y Plataformas
+- Git & GitHub
+- Vite
+- ERP / HMS
+- Excel Avanzado
 
-- **Motivación y Pasión:** Estoy altamente motivado para crecer en el campo del desarrollo backend, y siempre busco oportunidades para aprender y mejorar.
-- **Formación Continua:** Me mantengo actualizado con las últimas tecnologías y mejores prácticas mediante cursos y formación autodidacta.
-- **Trabajo en Equipo:** Tengo habilidades interpersonales sólidas y disfruto trabajando en equipo para lograr objetivos comunes.
+### Idiomas
+- Español (nativo)
+- Inglés (intermedio)
 
+---
 
-### Comandos de la terminal aprendidos
+## 📚 Formación & Certificaciones
 
-| Comando   | Acción                                                                                          |
-| ------    | ------                                                                                          |
-| **ls**    | Lista los archivos de la carpeta actual, o de la ruta dada. Ej. **ls** Documents                |
-| **cd**    | Nos permite navegar entre carpetas. Ej. **cd** Documents nos ubicaría en /Users/usuario/Documents|
-| **pwd**   | Nos muestra la ruta absoluta del directorio actual, así podemos saber en dónde estamos ubicados. |
-| **mkdir** | Crea una nueva carpeta dado un nombre para esa carpeta. Ej. **mkdir** hola                      |
-| **touch** | Crea un archivo nuevo dada una ruta y/o nombre. Ej. **touch** README                            |
+### freeCodeCamp
+- ✅ Desarrollo Web Responsive
+- ✅ Algoritmos de JavaScript y Estructuras de Datos
 
-### Comandos Alias útiles
+### CoderHouse
+- ✅ Desarrollo Front-End
+- ✅ SQL
 
-```sh
-alias findd="ls ~/ | grep $1"
-# Crea un alias "findd", el cual busca $1 documento en HOME (o directorio agregado al alias).
-```
+### Codo a Codo 4.0
+- ✅ Desarrollador Java FullStack
 
-```sh
-alias cl = "clear"
-Crea un alias "cl", el cual ejectura el comando CLEAR
-```
+### Educación IT
+- ✅ Curso de Excel Avanzado
+
+---
+
+## 💡 Sobre Mí
+
+Soy una persona proactiva, con gran capacidad para el trabajo en equipo y la resolución de problemas. Me gusta involucrarme en proyectos donde pueda aplicar mis conocimientos y al mismo tiempo adquirir nuevas habilidades. Mi objetivo es seguir creciendo dentro del mundo del desarrollo web y aportar valor real a los equipos en los que colabore.
+
+---
+
+## 📫 Contacto
+
+Si te interesa trabajar conmigo o simplemente querés charlar sobre desarrollo:
+
+- 📧 Email: *[briannicolasdiaz@outlook.com]*  
+- 💼 LinkedIn: *[https://www.linkedin.com/in/brian-diaz-0226ab254/]*
+
+---
+
+Gracias por visitar mi perfil 🚀
